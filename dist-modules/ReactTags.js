@@ -420,7 +420,7 @@ ReactTags.defaultProps = {
   autofocus: true,
   inline: true,
   allowDeleteFromEmptyInput: true,
-  minQueryLength: 2,
+  minQueryLength: 1,
   autocomplete: false,
   readOnly: false
 };
